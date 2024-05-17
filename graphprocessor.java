@@ -306,7 +306,7 @@ public class graphprocessor {
 
         // 输出遍历的节点和边到文件
         writeRandomWalkToFile(nodesVisited, edgesVisited);
-    }
+    }  
 
     private void writeRandomWalkToFile(List<String> nodesVisited, List<String> edgesVisited) {
         try (PrintWriter writer = new PrintWriter("random_walk.txt")) {
