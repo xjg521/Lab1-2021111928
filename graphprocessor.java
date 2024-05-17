@@ -318,4 +318,5 @@ public class graphprocessor {
             System.out.println("Failed to write random walk to file: " + e.getMessage());
         }
     }
-}
+} 
+ 
