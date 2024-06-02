@@ -20,6 +20,7 @@ public class graphprocessor {
             System.out.println("有向图生成成功！");
             visualizeGraph(processor.generateGraphText());
 
+            
             while (true) {
                 System.out.println("\n请选择功能：");
                 System.out.println("1. 展示有向图");
