@@ -13,12 +13,14 @@ public class graphprocessor {
         graphprocessor processor = new graphprocessor();
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入文本文件的路径：");
-
+         
         String filePath = scanner.nextLine();
         try {
             processor.generateGraphFromFile(filePath);
-            System.out.println("有向图生成成功！");
+            System.out.println("有向图已经生成成功！");
             visualizeGraph(processor.generateGraphText());
+          
+
 
             while (true) {
                 System.out.println("\n请选择功能：");
