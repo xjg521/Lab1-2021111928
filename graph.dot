@@ -8,9 +8,7 @@ digraph G {
   to -> explore [label=1];
   to -> seek [label=1];
   seek -> out [label=1];
-  
   strange -> new [label=1];
-  
   life -> and [label=1];
   out -> new [label=1];
 }
