@@ -8,11 +8,12 @@ public class graphprocessor {
     public graphprocessor() {
         this.graph = new HashMap<>();
     }
-
+    
     public static void main(String[] args) {
         graphprocessor processor = new graphprocessor();
         Scanner scanner = new Scanner(System.in);
-        System.out.print("请输入文本文件路径：");
+        System.out.print("请输入文本文件的路径：");
+
         String filePath = scanner.nextLine();
         try {
             processor.generateGraphFromFile(filePath);
