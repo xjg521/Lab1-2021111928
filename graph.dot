@@ -3,6 +3,10 @@ digraph G {
   new -> civilizations [label=1];
   new -> life [label=1];
   worlds -> to [label=1];
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 890138f (提交)
   explore -> strange [label=1];
   and -> new [label=1];
   to -> explore [label=1];
