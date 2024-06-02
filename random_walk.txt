@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Edges visited:
+=======
+Edges visited:
+>>>>>>> f109f36 (Initial commit)
 and -> new -> worlds -> to -> explore -> strange -> new
