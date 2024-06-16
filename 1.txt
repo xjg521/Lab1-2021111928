@@ -1,0 +1,12 @@
+dog and
+This is a test file.
+It contains words in various cases, including UPPER CASE and lower case.
+Some words may appear multiple times, such as test and file.
+There are also special characters like ! @ # $ % ^ & * ( ) and spaces between words.
+Each word is separated by spaces or punctuation marks.
+Some words may be missing connections to other words.
+This is to test the ability to find bridge words.
+Not all words are connected directly, so some paths may be longer than others.
+This file is designed to test the functionality of the program.
+If you encounter any issues, please report them to the developer.
+Thank you for testing!
