@@ -1,0 +1,5 @@
+digraph G {
+  new -> east [label=1];
+  east -> world [label=1];
+}
+
